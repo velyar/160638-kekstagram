@@ -1,7 +1,7 @@
 # Личный проект «Кекстаграм» [![Build status][travis-image]][travis-url]
 
 * Студент: [Евгений Иванов](https://up.htmlacademy.ru/javascript/12/user/160638).
-* Наставник: `Неизвестно`.
+* Наставник: [Даниил Оношко](https://up.htmlacademy.ru/javascript/12/user/154426).
 
 ---
 
